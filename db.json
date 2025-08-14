@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": "78a5",
+      "name": "werqwe",
+      "budget": "33",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1b49",
+      "name": "wer",
+      "budget": "4",
+      "category": {
+        "id": "4",
+        "name": "Marketing"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Marketing"
+    },
+    {
+      "id": "5",
+      "name": "Escrita"
+    }
+  ]
+}
