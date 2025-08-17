@@ -7,7 +7,7 @@ import Message from "../layout/Message";
 import ProjectCard from "../project/ProjectCard";
 import styles from "./Projects.module.css";
 
-export default function Projects() {
+function Projects() {
 	const [projects, setProjects] = useState([]);
 	const [removeLoading, setRemoveLoading] = useState(false);
 	const [projectMessage, setProjectMessage] = useState("");
@@ -78,3 +78,5 @@ export default function Projects() {
 		</div>
 	);
 }
+
+export default Projects;
