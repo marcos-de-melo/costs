@@ -1,37 +1,106 @@
 {
   "projects": [
     {
-      "id": "78a5",
-      "name": "teste2",
-      "budget": "501",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "1b49",
       "name": "Sei lá que projeto é este",
-      "budget": "4",
+      "budget": "10000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 45,
+      "services": [
+        {
+          "name": "tert",
+          "cost": "45",
+          "description": "asdfa",
+          "id": "aac90a81-2660-4104-a4ee-bdcc665732fa"
+        }
+      ]
     },
     {
       "id": "6a1c",
       "name": "Home",
-      "budget": "5452",
+      "budget": "1000",
       "category": {
         "id": "5",
         "name": "Escrita"
       },
-      "cost": 0,
-      "services": []
+      "cost": 832,
+      "services": [
+        {
+          "name": "sdfasd",
+          "cost": "500",
+          "description": "asdfa",
+          "id": "14e93f27-ea40-45a7-b848-621d02ab2e5b"
+        },
+        {
+          "name": "sdfasd",
+          "cost": "10",
+          "description": "yyy",
+          "id": "6cd5f65c-5b2e-4444-97e1-1eb10516ffb5"
+        },
+        {
+          "name": "sdfasd",
+          "cost": "10",
+          "description": "yyy",
+          "id": "6cd5f65c-5b2e-4444-97e1-1eb10516ffb5"
+        },
+        {
+          "name": "kkk",
+          "cost": "12",
+          "description": "jhgjh",
+          "id": "0a51cb1c-8cb1-4099-b754-e179a915e487"
+        },
+        {
+          "name": "oipoio",
+          "cost": "45",
+          "description": "lklkl",
+          "id": "51b681df-efd1-4ae8-ba31-8c3d8cf09cec"
+        },
+        {
+          "name": "oipoio",
+          "cost": "45",
+          "description": "lklkl",
+          "id": "51b681df-efd1-4ae8-ba31-8c3d8cf09cec"
+        },
+        {
+          "name": "teste",
+          "cost": "10",
+          "description": "asdf",
+          "id": "34d558c7-1ea9-4f65-bf51-60e3407dcd48"
+        },
+        {
+          "name": "Contratar dev",
+          "description": "marcos dev",
+          "cost": "200",
+          "id": "01d8f3dd-c6c8-4d9f-a9e9-8adff58698d0"
+        }
+      ]
+    },
+    {
+      "id": "7cfd",
+      "name": "Landing Page",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "UX Design",
+          "cost": "2000",
+          "description": "Criar o design do site no figma",
+          "id": "9b003413-44d3-489b-be8d-34abb2b51206"
+        },
+        {
+          "name": "asfsd",
+          "cost": "1000",
+          "description": "asdfasdf",
+          "id": "ef79f3bc-ecb9-4a45-8c15-a10d274a5fcf"
+        }
+      ]
     }
   ],
   "categories": [
